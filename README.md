@@ -9,7 +9,7 @@
 - Redis
 
 # USAGE
-```golang
+```bash
 go mod vendor
-dgo run cmd/fenris/main.go
+go run cmd/fenris/main.go
 ```
